@@ -1,8 +1,9 @@
 ---
-#Committin Basics Exercise
+Committin Basics Exercise
 ---
 
 ordered
+
 **1. Create a new folder called `Shpping`**
 **2. Initialize a new git repo inside of the `Shopping` folder (make sure you're not already inside a Git repo!)**
 **3. Make a new file called `yard.txt`**
@@ -13,7 +14,7 @@ ordered
 	- 2 bags of potting soil
 	- 1 bags of worm casting
 ```
-**7. In the `groceries.txt` file, add the following: **
+**7. In the `groceries.txt` file, add the following:**
 ``` js
 	- 4 tomatoes
 	- 6 Shallots
