@@ -34,3 +34,26 @@ Committin Basics Exercise
 
 
 **8. Make a new commit, including ONLY the changes from the `groceries.txt` file. The commit message should be [add ingredients for tomato soup]()**
+
+
+**9. Make a second commit including  ONLY the changes to the `yard.txt` file. It should have the commit message [add items needed for garden box]()**
+
+
+**10. Next up, add the following line to the end of `groceries.txt`:**
+``` js
+	- couple of seed potatos
+```
+
+
+**11. In the `yard.txt` file, change the first line so that it syas "3 bags of potting soil" instead of "2 bags of potting soil"**
+``` js
+	- 3 bags of potting soil
+	- 1 bag of worm casting
+```
+
+
+**12. Make a commit that includes the changes to BOTH files. The message should read [add items needed to grow potatoes]()**
+
+
+**13. Use a Git command to display a list of the commits. You should see 4!**
+
